@@ -1,0 +1,132 @@
+Mouhib Lafi
+
+je suis a la recherche de stage de fin d'études d'une durée de 4 mois à partir de février 2024 
+
++216 29728630
+
+Étudiant en systèmes embarqués et IoT, passionné par l'innovation technologique. Fort d'une solide formation académique, je recherche des opportunités pour appliquer mes compétences et contribuer à des projets stimulants dans ce domaine en constante évolution.
+
+INFORMATIONS PERSONNELLES
+
+  Address: Ben Gardane, Medenine, Tunisie
+  Date of birth: 04/11/2000 
+  Nationality: Tunisienne
+  Driving License: 
+  Hobbies: La photographie
+           Camping
+           Les jeux vidéo
+           Cuisson
+           Sports d'équipe
+           Robotique
+
+
+PROFILS SOCIAUX
+
+  * LinkedIn: https://www.linkedin.com/in/mouhib-lafi-6a5714289/
+  * GitHub: https://github.com/MouhibLafi
+
+
+LANGUES
+
+  ★★★☆☆ English
+  ★★★☆☆ French
+  ★★★★★ Arabe
+
+
+COMPÉTENCES
+  STM32
+  CubeMX
+  KIEL
+  Arduino
+  Python
+  C/C++
+  Visual Studio
+  Android
+  Java
+  VHDL
+
+
+EXPÉRIENCE PROFESSIONNELLE
+
+  * août 2023 – septembre 2023
+    Stage Technicien à Asteelflash, La Soukra, Ariana, tunis
+      • J'étais chargé de développer une solution pour tester les cartes PCBA en utilisant la vision par ordinateur. 
+      • J'ai adapté le modèle YOLOv8 d'Ultralytics. 
+      • Ensuite, j'ai entraîné le modèle avec des données augmentées et collectées, puis préparé une interface graphique (GUI) affichant en direct les images de la carte de circuit imprimé avec les zones détectées des défauts.
+
+      mots clés :  Python | Yolo | Vision par ordinateur | Détection d'objet | Interface graphique
+
+
+
+  * juillet 2022 – août 2022
+    Stage Ouvrier à Tunisie Telecom , Ben Gardane, Medenine
+      • Travaillé comme stagiaire dans le département services techniques. 
+      • Développé des compétences en communication, négociation et résolution de problèmes techniques.
+
+      mots clés :  Communication
+
+
+
+
+
+
+
+
+ÉDUCATION
+
+  * septembre 2019 – juillet 2024
+    institut Supérieur d'Informatique et de Multimédia de Gabès,  Licence en Ingénierie des systèmes informatiques (parcours : Systèmes Embarqués & IoT)
+
+    •Technologies pour les systèmes embarqués Réseaux locaux et technologie
+    •multimédia
+    •Architecture avancée des processeurs
+    •IOT
+    •Programmation web et mobile
+    •Test logiciel et SOC 
+    •Intelligence Artificielle 
+    •Big Data
+
+
+
+
+  * septembre 2015 – juin 2019
+    Lycée Bengarden 1,  Baccalauréat Sciences Techniques
+
+    
+
+
+
+
+FORMATIONS
+  * octobre 2023
+    SC-900: Microsoft Security, Compliance, and Identity Fundamentals (English), Microsoft
+  * août 2023
+    AI-900: Microsoft Azure AI Fundamentals (English), Microsoft
+
+
+
+PROJETS
+
+  * Boussole Électronique, , 
+
+    Institut
+
+  conception et développement d'un boussole électronique afin de détecter la position et l'orientation et afficher les données obtenues.
+
+    mots clés :  STM32, accéléromètre Lis3dsh, afficheur LCD
+
+
+  * Système de Surveillance de la Qualité de l'Air Intérieur, , 
+
+    Institut
+
+  Concevez un système embarqué qui surveille en temps réel la qualité de l'air intérieur en mesurant des paramètres tels que la température, l'humidité et la concentration de CO2. 
+
+    mots clés :  Capteurs de qualité de l'air, microcontrôleur, afficheur LCD, communication sans fil (Bluetooth).
+  * Suiveur Solaire, , 
+
+    Institut
+
+  Conception et développement d'un prototype solaire qui sert à suivre les rayons solaire afin de gagner le maximum possible d'énergie.
+
+    mots clés :  Arduino, des capteurs photorésistance, panneau solaire, servo moteur.
